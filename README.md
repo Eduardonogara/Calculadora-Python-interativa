@@ -83,12 +83,6 @@ Resultado: 15.0
 
 ---
 
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja o arquivo [`LICENSE`](LICENSE) para mais informações.
-
----
-
 ## ✨ Autor
 
 Feito com dedicação por **Eduardo Nogara** 🇧🇷  
