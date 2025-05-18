@@ -64,24 +64,6 @@ Resultado: 15.0
 
 ---
 
-## 🤝 Como Contribuir
-
-1. Faça um **fork** deste repositório.
-2. Crie uma branch nova:
-   ```bash
-   git checkout -b minha-melhoria
-   ```
-3. Faça suas alterações e commit:
-   ```bash
-   git commit -m "Minha contribuição"
-   ```
-4. Faça o push:
-   ```bash
-   git push origin minha-melhoria
-   ```
-5. Crie um **pull request** aqui no GitHub.
-
----
 
 ## ✨ Autor
 
