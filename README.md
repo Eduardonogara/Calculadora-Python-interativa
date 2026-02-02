@@ -61,11 +61,3 @@ Digite o primeiro número: 10
 Digite o segundo número: 5
 Resultado: 15.0
 ```
-
----
-
-
-## ✨ Autor
-
-Feito com dedicação por **Eduardo Nogara** 🇧🇷  
-Estudante, curioso por tecnologia, iniciando sua jornada em programação com Python!
