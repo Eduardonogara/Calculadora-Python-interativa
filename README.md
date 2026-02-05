@@ -25,12 +25,12 @@ Este é um projeto simples de **calculadora em Python**, desenvolvido por **Edua
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Eduardonogara/Calculadora-Python-interativa.git
+   git clone https://github.com/Eduardonogara/Calculadora-Python-Interativa.git
    ```
 
 2. Entre na pasta do projeto:
    ```bash
-   cd Calculadora-Python-interativa
+   cd Calculadora-simples.py
    ```
 
 3. Execute a calculadora:
