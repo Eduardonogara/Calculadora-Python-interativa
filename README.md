@@ -30,7 +30,7 @@ Este é um projeto simples de **calculadora em Python**, desenvolvido por **Edua
 
 2. Entre na pasta do projeto:
    ```bash
-   cd Calculadora-simples.py
+   cd Calculadora-Python-Interativa
    ```
 
 3. Execute a calculadora:
