@@ -35,7 +35,7 @@ Este é um projeto simples de **calculadora em Python**, desenvolvido por **Edua
 
 3. Execute a calculadora:
    ```bash
-   python3 Calculadora-simples.py
+   py Calculadora-simples.py
    ```
 
 ---
